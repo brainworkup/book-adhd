@@ -1,4 +1,4 @@
-# Introduction {#sec-introduction}
+# Introduction
 
 This is a book on ADHD about to be created from markdown and executable code.
 

@@ -6,4 +6,4 @@ email:
 
 engine:
   jupyter: '[Jupyter](https://jupyter.org)'
-  knitr: '[Knitr](<https://yihui.name/knitr>)'
+  knitr: '[Knitr](https://yihui.name/knitr)'

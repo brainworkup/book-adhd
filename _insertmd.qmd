@@ -2,9 +2,6 @@
 
 This is a book created from markdown and executable code.
 
-```{r}
-1 + 1
-```
 
 ### Diagnosis
 
@@ -19,7 +16,3 @@ What is this about?
 #### L4 Header
 
 Less less....
-
-```{r}
-(theta <- 4 * pi)
-```

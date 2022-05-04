@@ -8,9 +8,6 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    # - part: 'Childhood ADHD'
-    #   chapters:
-    #     - child.qmd
     - child.qmd
     - summary.qmd
     - references.qmd
