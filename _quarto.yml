@@ -1,0 +1,51 @@
+project:
+  type: book
+
+book:
+  title: 'ADHD Book in Quarto'
+  author: 'Joey Trampush, PhD'
+  date: '5/4/2022'
+  chapters:
+    - index.qmd
+    - intro.qmd
+    # - part: 'Childhood ADHD'
+    #   chapters:
+    #     - child.qmd
+    - child.qmd
+    - summary.qmd
+    - references.qmd
+  appendices:
+    - resources.qmd
+  page-navigation: true
+  page-footer:
+    left: 'Copyright 2022, Joey Trampush'
+    right:
+      - icon: github
+        href: https://github.com/brainworkup
+      - icon: twitter
+        href: https://twitter.com/brainworkup
+  search: true
+  repo-url: https://github.com/brainworkup/book-adhd/
+  repo-actions: [edit]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+
+bibliography: references.bib
+#csl: citestyle.csl
+
+format:
+  html:
+    theme: minty #flatly #journal #litera #vapor #cosmo
+    code-copy: true
+  pdf:
+    documentclass: scrreprt
+    header-includes: |
+      \usepackage{makeidx}
+      \makeindex
+    include-after: |
+      \printindex
+  epub:
+    cover-image: cover.png
+
+comments:
+  hypothesis: true

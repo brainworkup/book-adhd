@@ -1,0 +1,41 @@
+# Introduction {#sec-introduction}
+
+This is a book on ADHD about to be created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+## ADHD in Preschoolers
+
+Intoduction to preschool adhd ...
+
+Markdown\index{Markdown} allows you to write using an easy-to-read, easy-to-write plain text format.
+
+## ADHD in School-Age Children
+
+What do we know about childhood ADHD ...
+
+See @sec-child for additional context.
+
+Click here [School Recs](child.qmd#recommendations-for-school) to go to School Recs section.
+
+## ADHD in Adolescents and Teens
+
+What do we know about adolescent ADHD ...
+
+## ADHD in College Students
+
+What do we know about young adult ADHD ...
+
+## ADHD in Adults
+
+What do we know about adult ADHD ...
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| A    | B    | C    |
+| E    | F    | G    |
+| A    | G    | G    |
+
+: My Caption {#tbl-letters}
+
+See @tbl-letters.
