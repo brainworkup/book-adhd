@@ -32,7 +32,6 @@ book:
   sidebar:
     style: floating #docked
     background: light
-    alignment: center
 
 bibliography: references.bib
 #csl: citestyle.csl

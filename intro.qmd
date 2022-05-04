@@ -41,3 +41,11 @@ What do we know about adult ADHD ...
 : My Caption {#tbl-letters}
 
 See @tbl-letters.
+
+## Summary
+
+Version {{< var version >}} is a minor upgrade.
+
+Please contact us at {{< var email.info >}}.
+
+Quarto includes {{< var engine.jupyter >}} and {{< var engine.knitr >}} computation engines.

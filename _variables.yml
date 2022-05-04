@@ -1,0 +1,9 @@
+version: 1.2
+
+email:
+  info: j.trampush@gmail.com
+  support: j.trampush@gmail.com
+
+engine:
+  jupyter: '[Jupyter](https://jupyter.org)'
+  knitr: '[Knitr](<https://yihui.name/knitr>)'
