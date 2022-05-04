@@ -29,6 +29,10 @@ book:
   repo-actions: [edit]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
+  sidebar:
+    style: floating #docked
+    background: light
+    alignment: center
 
 bibliography: references.bib
 #csl: citestyle.csl
@@ -44,6 +48,7 @@ format:
       \makeindex
     include-after: |
       \printindex
+    fontfamily: libertinus
   epub:
     cover-image: cover.png
 

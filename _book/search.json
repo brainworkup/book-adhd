@@ -31,22 +31,22 @@
     "objectID": "intro.html#adhd-in-adolescents-and-teens",
     "href": "intro.html#adhd-in-adolescents-and-teens",
     "title": "1  Introduction",
-    "section": "1.3 ADHD in Adolescents and Teens",
-    "text": "1.3 ADHD in Adolescents and Teens\nWhat do we know about adolescent ADHD …"
+    "section": "1.4 ADHD in Adolescents and Teens",
+    "text": "1.4 ADHD in Adolescents and Teens\nWhat do we know about adolescent ADHD …"
   },
   {
     "objectID": "intro.html#adhd-in-college-students",
     "href": "intro.html#adhd-in-college-students",
     "title": "1  Introduction",
-    "section": "1.4 ADHD in College Students",
-    "text": "1.4 ADHD in College Students\nWhat do we know about young adult ADHD …"
+    "section": "1.5 ADHD in College Students",
+    "text": "1.5 ADHD in College Students\nWhat do we know about young adult ADHD …"
   },
   {
     "objectID": "intro.html#adhd-in-adults",
     "href": "intro.html#adhd-in-adults",
     "title": "1  Introduction",
-    "section": "1.5 ADHD in Adults",
-    "text": "1.5 ADHD in Adults\nWhat do we know about adult ADHD …\n\n\nTable 1.1: My Caption\n\n\nCol1\nCol2\nCol3\n\n\n\n\nA\nB\nC\n\n\nE\nF\nG\n\n\nA\nG\nG\n\n\n\n\nSee Table 1.1.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "section": "1.6 ADHD in Adults",
+    "text": "1.6 ADHD in Adults\nWhat do we know about adult ADHD …\n\n\nTable 1.1: My Caption\n\n\nCol1\nCol2\nCol3\n\n\n\n\nA\nB\nC\n\n\nE\nF\nG\n\n\nA\nG\nG\n\n\n\n\nSee Table 1.1.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "child.html",
@@ -122,7 +122,28 @@
     "objectID": "intro.html#adhd-in-school-age-children",
     "href": "intro.html#adhd-in-school-age-children",
     "title": "1  Introduction",
-    "section": "1.2 ADHD in School-Age Children",
-    "text": "1.2 ADHD in School-Age Children\nWhat do we know about childhood ADHD …\nSee Section 2 for additional context.\nClick here School Recs to go to School Recs section."
+    "section": "1.3 ADHD in School-Age Children",
+    "text": "1.3 ADHD in School-Age Children\nWhat do we know about childhood ADHD …\nSee Section 2 for additional context.\nClick here School Recs to go to School Recs section."
+  },
+  {
+    "objectID": "intro.html#diagnosis",
+    "href": "intro.html#diagnosis",
+    "title": "1  Introduction",
+    "section": "1.3 Diagnosis",
+    "text": "1.3 Diagnosis\n\nlist 1\nlist 2\nlist 3"
+  },
+  {
+    "objectID": "intro.html#treatment",
+    "href": "intro.html#treatment",
+    "title": "1  Introduction",
+    "section": "1.4 Treatment",
+    "text": "1.4 Treatment\nWhat is this about?\n\n1.4.1 Level 3 Header\nMore more more …\n\n1.4.1.1 L4 Header\nLess less….\n\n(theta <- 4 * pi)\n\n[1] 12.56637"
+  },
+  {
+    "objectID": "intro.html#preschool-adhd",
+    "href": "intro.html#preschool-adhd",
+    "title": "1  Introduction",
+    "section": "1.2 Preschool ADHD",
+    "text": "1.2 Preschool ADHD\nThis is a book created from markdown and executable code.\n\n1 + 1\n\n[1] 2\n\n\n\n1.2.1 Diagnosis\n\nlist 1\nlist 2\nlist 3\n\n\n\n1.2.2 Treatment\nWhat is this about?\n\n1.2.2.1 L4 Header\nLess less….\n\n(theta <- 4 * pi)\n\n[1] 12.56637"
   }
 ]

@@ -10,6 +10,8 @@ Intoduction to preschool adhd ...
 
 Markdown\index{Markdown} allows you to write using an easy-to-read, easy-to-write plain text format.
 
+{{< include _insertmd.qmd >}}
+
 ## ADHD in School-Age Children
 
 What do we know about childhood ADHD ...
