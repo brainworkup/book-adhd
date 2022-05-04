@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ADHD Book in Quarto",
+    "section": "",
+    "text": "This is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n\nTo someone …"
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction",
@@ -89,5 +96,33 @@
     "title": "2  School-Age/Childhood ADHD",
     "section": "2.5 Links to Online Resources",
     "text": "2.5 Links to Online Resources\n\nSmart but Scattered resources website\nTips for Caregivers on Schooling at Home\nCHADD\nNIMH\nPsychology Today\nADHD Care\nAttention\nADDA"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "Edited this content from GitHub directly."
+  },
+  {
+    "objectID": "summary.html#sections",
+    "href": "summary.html#sections",
+    "title": "3  Summary",
+    "section": "3.1 Sections",
+    "text": "3.1 Sections\n\n3.1.1 Preschool ADHD\nTo summarize …\n\n\n3.1.2 Childhood ADHD\n\n\n3.1.3 Adult ADHD"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "NIMH"
   }
 ]

@@ -11,7 +11,7 @@ book:
     - child.qmd
     - summary.qmd
     - references.qmd
-  appendices:
+    # appendices:
     - resources.qmd
   page-navigation: true
   page-footer:
